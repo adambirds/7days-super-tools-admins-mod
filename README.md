@@ -1,1 +1,1 @@
-# 7 Days to Die Super Auger
+# 7 Days to Die Super Tools Admins Mod
