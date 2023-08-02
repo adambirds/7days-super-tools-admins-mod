@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+	<Name value = "SuperToolsAdminsMod"/>
+	<DisplayName value = "Super Tools Admins Mod"/>
+	<Description value = "The Super Tools Admins Mod provides overpowered super tools available in creative mode.\n This currently provides the Super Auger, Super Chainsaw, Super Nailgun and Super Impact Driver.\n As well as being overpowered it also provides them with an extra mod slot for Level 6 versions."/>
+	<Author value = "Adam Birds"/>
+	<Version value = "1.0"/>
+	<Website value = "https://github.com/adambirds"/>
+</xml>
