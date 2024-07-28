@@ -1,9 +1,0 @@
-Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,latam,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese,spanish
-meleeToolPickT3SuperAuger,items,Item,,,"Super Auger",,,,,,,,,,,,,,
-meleeToolPickT3SuperAugerDesc,items,Item,,,"The super auger of all Augers.",,,,,,,,,,,,,,
-meleeToolAxeT3SuperChainsaw,items,Item,,,"Super Chainsaw",,,,,,,,,,,,,,
-meleeToolAxeT3SuperChainsawDesc,items,Item,,,"The super chainsaw of all Chainsaw.",,,,,,,,,,,,,,
-meleeToolRepairT3SuperNailgun,items,Item,,,"Super Nailgun",,,,,,,,,,,,,,
-meleeToolRepairT3SuperNailgunDesc,items,Item,,,"The super nailgun of all Nailguns.",,,,,,,,,,,,,,
-meleeToolSalvageT3SuperImpactDriver,items,Item,,,"Super Impact Driver",,,,,,,,,,,,,,
-meleeToolSalvageT3SuperImpactDriverDesc,items,Item,,,"The super impact driver of all Impact Drivers.",,,,,,,,,,,,,,
